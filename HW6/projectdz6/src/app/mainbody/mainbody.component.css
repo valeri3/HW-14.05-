@@ -1,0 +1,23 @@
+a {
+  padding: 10px;
+  font-size: 30px;
+  opacity: 50%;
+}
+
+a:active {
+  opacity: 100%;
+}
+
+.active {
+  opacity: 100%;
+}
+
+nav {
+  margin-left:30px ;
+  margin-top: 15px;
+  display: flex;
+}
+
+img {
+  height: 30px;
+}
